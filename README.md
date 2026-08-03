@@ -83,7 +83,7 @@ A wearable translation assistant concept focused on multilingual communication.
 
 - LinkedIn: https://www.linkedin.com/in/shristi-483363295
 
-Thanks for visiting my profile!## Hi there 👋
+Thanks for visiting my profile! 👋##
 
 <!--
 **shristi102005-spec/shristi102005-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
